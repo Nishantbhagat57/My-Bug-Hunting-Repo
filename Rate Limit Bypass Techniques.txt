@@ -1,0 +1,27 @@
+https://www.securecyberfuture.com/post/bypass-rate-limit
+
+X-Forwarded-Host: evil.com
+(Password reset poisoning)
+X-Forwarded-For: 127.0.0.*
+
+X-Originating-IP: 127.0.0.1
+
+X-Forwarded-For: 127.0.0.1
+
+X-Remote-IP: 127.0.0.1
+
+X-Remote-Addr: 127.0.0.1
+
+Bypass: X-Forwarded-For: asdfg
+
+Try with X-Forwarded-For: IP Header 2x times Instead of One time.
+
+Bypassing Rate Limit with some Characters
+
+• Adding Null Byte ( %00 ) at the end of the Email can sometimes Bypass Rate Limit.
+
+• Try adding a Space Character after a Email. ( Not Encoded )
+
+• Some Common Characters that help bypassing Rate Limit : %0d , %2e , %09 , %20, %00 , %0d%0a 
+
+Like: ghh@gmail.com%09%09%09
