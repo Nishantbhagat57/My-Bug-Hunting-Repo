@@ -13,7 +13,7 @@ info:
     max-request: 15
     verified: true
     shodan-query: http.html:"phpMyAdmin"
-  tags: phpmyadmin,misconfig
+  tags: phpmyadmin,misconfig,nishant
 
 http:
   - method: GET
