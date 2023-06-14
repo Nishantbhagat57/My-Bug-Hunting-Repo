@@ -4,7 +4,7 @@ info:
   name: swaggerui
   author: nishant57
   severity: info
-  tags: exposure,api,swagger,nishant
+  tags: exposure,api,swagger,nishantswagger
 
 requests:
   - method: GET
