@@ -17,6 +17,7 @@ http:
   - method: GET
     path:
       - "{{BaseURL}}/pma/server_import.php"
+      - "{{BaseURL}}/PMA/server_import.php"
       - "{{BaseURL}}/phpmyadmin/server_import.php"
       - "{{BaseURL}}/phpMyAdmin 2/server_import.php"
       - "{{BaseURL}}/db/server_import.php"
