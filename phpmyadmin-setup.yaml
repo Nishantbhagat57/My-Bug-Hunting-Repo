@@ -51,6 +51,8 @@ http:
         words:
           - "You want to configure phpMyAdmin using web interface"
           - "<title>phpMyAdmin"
+          - "<title>phpmyAdmin"
+          - "<title>phpmyadmin"
         condition: or
 
       - type: status
