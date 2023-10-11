@@ -34,6 +34,8 @@ http:
       - "{{BaseURL}}/setup/index.php"
       - "{{BaseURL}}/phpMyAdmin/setup/index.php"
       - "{{BaseURL}}/admin/"
+      - "{{BaseURL}}/phpMyAdminOLD/setup/index.php"
+      - "{{BaseURL}}/phpMyAdminOLD/setup"
 
     stop-at-first-match: true
     matchers-condition: and
