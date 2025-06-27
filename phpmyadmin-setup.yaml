@@ -37,11 +37,11 @@ http:
       - "{{BaseURL}}/phpMyAdminOLD/setup/index.php"
       - "{{BaseURL}}/phpMyAdminOLD/setup"
       - "{{BaseURL}}/phpMyAdminOLD/scripts/setup.php"
-      - "{{BaseURL}}/phpMyAdmin/setup/index.php
-      - "{{BaseURL}}/phpMyadmin/setup/index.php
-      - "{{BaseURL}}/phpMyadmin/scripts/setup.php
-      - "{{BaseURL}}/phpmyAdmin/setup/index.php
-      - "{{BaseURL}}/phpmyAdmin/scripts/setup.php
+      - "{{BaseURL}}/phpMyAdmin/setup/index.php"
+      - "{{BaseURL}}/phpMyadmin/setup/index.php"
+      - "{{BaseURL}}/phpMyadmin/scripts/setup.php"
+      - "{{BaseURL}}/phpmyAdmin/setup/index.php"
+      - "{{BaseURL}}/phpmyAdmin/scripts/setup.php"
       
     stop-at-first-match: true
     matchers-condition: and
